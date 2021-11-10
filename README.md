@@ -16,8 +16,7 @@ Assignment  | Language | Description
 ## Course Details
 - https://abl.gtu.edu.tr/ects/?duzey=ucuncu&modul=ders_bilgi_formu&dno=B%C4%B0L%20241&tip=lisans&bolum=104&dil=en
 
-## Hex Game
-- __Blue won__
+## Peg Solitaire Game
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Peg_Solitaire_game_board_shapes.svg/684px-Peg_Solitaire_game_board_shapes.svg.png">
 </p>
