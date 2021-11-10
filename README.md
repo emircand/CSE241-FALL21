@@ -1,5 +1,5 @@
 ![gtuicon](https://seeklogo.com/images/G/gebze-teknik-universitesi-gtu-logo-DB51C963F7-seeklogo.com.png)
-## CSE-241 Overview
+## CSE-241 Object Oriented Programming Overview
 
 Assignment  | Language | Description
 ------------- | ------------- | ------------- 
