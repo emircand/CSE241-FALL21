@@ -38,6 +38,8 @@ namespace emircand
         virtual void initialize() = 0; //initialize initializes the board. For some games the initial board is the same, for other games the initial board is random.
         virtual void print() const = 0; //prints the game on the screen starting from the top left corner of the terminal.
 
+
+        static int playVector(vector<BoardGame2D*> myVector);
         BoardGame2D();
         ~BoardGame2D();
     };

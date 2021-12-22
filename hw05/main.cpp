@@ -22,8 +22,6 @@ using emircand::PegSolitaire;
 using emircand::EightPuzzle;
 using emircand::Klotski;
 
-void playVector(vector<BoardGame2D*> myVector);
-
 int main()
 {
     srand(time(NULL));
@@ -34,23 +32,10 @@ int main()
     BoardGame2D* Puzzle_1 = new EightPuzzle();
     BoardGame2D* Puzzle_2 = new EightPuzzle();
 
+    BoardGame2D* myGame;
+
     vector <BoardGame2D *> myVector = {Peg_1, Puzzle_1, klotski_1, Peg_2, Puzzle_2, klotski_2}; 
-    playVector(myVector);
+    myGame->playVector(myVector);
     
 return 0;
-}
-
-void playVector(vector<BoardGame2D*> myVector)
-{
-    for (auto i = 0; i < myVector.size(); i++)
-    {
-        //pause
-        cout << "press enter to begin new game..." << endl;
-        std::cin.get();
-
-        if(i < 3)
-            myVector[i]->playUser();
-        else 
-            myVector[i]->playAutoAll();
-    }
 }
