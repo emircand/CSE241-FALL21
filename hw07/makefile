@@ -1,3 +1,3 @@
 all:
-	javac *.java
-	java Main
+	javac -d . *.java
+	java emircand/Main
