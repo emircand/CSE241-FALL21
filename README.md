@@ -6,10 +6,10 @@ Assignment  | Language | Description
 [HW1](https://github.com/emircand/CSE241-FALL21/tree/main/hw01)  | C++ | Peg Solitaire Game with very basic level AI
 [HW2](https://github.com/emircand/CSE241-FALL21/tree/main/hw02)  | C++ | File Save/Load IO for the game
 [HW3](https://github.com/emircand/CSE241-FALL21/tree/main/hw03)  | C++ | Using class, inner class and 2D vector for the game
-[HW4]()  | C++ | Using dynamic memory techniques and operator overloading for the game
-[HW5]()  | C++ | To represent the board STL vector , 1D dynamic C array , Adapter class (just like the stack or queue class of the STL)  and all OOP techniques for the game
-[HW6]()  | Java | Java Collections hierarchy, generic classes for Collection, Set, List, Queue, which are all interfaces. HashSet, ArrayList and LinkedList are concrete classes created with my Iterator class.
-[HW7]()  | Java | Peg Solitaire game with GUI using Java Swing
+[HW4](https://github.com/emircand/CSE241-FALL21/tree/main/hw04)  | C++ | Using dynamic memory techniques and operator overloading
+[HW5](https://github.com/emircand/CSE241-FALL21/tree/main/hw05)  | C++ | Creating various types of board games with OOP concepts.
+[HW6](https://github.com/emircand/CSE241-FALL21/tree/main/hw06)  | C++ | Template class hierarchy for a simple container class hierarchy.
+[HW7](https://github.com/emircand/CSE241-FALL21/tree/main/hw07)  | Java | Remake of HW4 using Java.
 
 ## Purpose of the course
 - Topics of this lesson are; Introduction to C++ programming, C++ Basics, Flow Of Control, Functions, Functions & Parameters and Overloading, Arrays & Pointers and Strings, Classes and Data Abstraction, Method Overriding, Operator Overloading, Virtual Functions and Polymorphism, Templates, Exception Handling, Standard Template Library, Move Semantics, Introduction to Java and comparison with C++.
